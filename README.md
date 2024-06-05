@@ -1,6 +1,10 @@
-Proyecto de Tesis
-Descripción
-Este proyecto de tesis se centra en [inserta aquí una breve descripción de tu tesis]. El repositorio contiene dos carpetas principales:
+<h1>Proyecto de Tesis</h1>
 
-1. preprocesamiento: Código para la preparación y limpieza de los datos.
-2. entrenamiento: Código para el entrenamiento del modelo.
+<h2>Descripción</h2>
+
+<p>Este proyecto de tesis se centra en desarrollar un modelo algorítmico que mejore la confiabilidad de los sensores de bajo costo de material particulado cuya presición se ve afectado por las variables climáticas locales y los cambios estacionales. Por otro lado, el repositorio contiene dos carpetas principales:</p>
+
+<ol>
+  <li>preprocesamiento: Código para la vizualización y limpieza de los datos.</li>
+  <li>entrenamiento: Código para el entrenamiento de los modelo.</li>
+</ol>
