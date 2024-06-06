@@ -23,3 +23,14 @@
 
 <p> Se implementa la siguiente arquitectura: </p>
 
+<img src="https://github.com/AntonyRomeroG/Tesis-2/blob/main/fuente.png" height="70%" width="70%" />
+
+<p> Se empelará un enfoque de calibración monosensor en el lugar fuente. Este enfoque, ajusta un modelo de corrección (modelo base) para un sensor candidato específico (LCS) utilizando datos de un período de mediciones simultáneas con un sensor de referencia coubicado. </p>
+
+<img src="https://github.com/AntonyRomeroG/Tesis-2/blob/main/objetivo.png" height="70%" width="70%" />
+
+<p> Se empelará un enfoque de calibración multisensor en el lugar objetivo. Este enfoque, utiliza los modelos base para corregir la medición PM del sensor objetivo, es decir, el valor medio de las predicciones de los modelos base es añadido como variable predictora </p>
+
+<h2>Modelos</h2>
+
+En el archivo se incluye un enlace donde se pueden ver los modelos base de Lima y los modelos de calibración de Arequipa. Estos se han evaluado utilizando todos los modelos base (_ap_) o solo aquellos del mismo fabricante (_mp_).
