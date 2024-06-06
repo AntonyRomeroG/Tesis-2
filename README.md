@@ -7,4 +7,7 @@
 <ol>
   <li>Preprocesamiento: Código para la vizualización y limpieza de los datos.</li>
   <li>Entrenamiento: Código para el entrenamiento de los modelo.</li>
+  <li>Modelos: Modelos entrenados.</li>
 </ol>
+
+
